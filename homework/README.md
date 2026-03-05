@@ -201,7 +201,7 @@ Markdown or PDF.
 Submit your work as a **Pull Request** in:
 
 ```
-eng/homework/submission/<student-id>/
+homework/submission/<student-id>/
 ```
 
 ---

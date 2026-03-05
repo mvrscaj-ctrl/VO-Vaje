@@ -18,7 +18,7 @@ By the end, students will be able to:
 
 | Folder | Tutorial content |
 |--------|--------------|
-| `lab01` | Risk assessment → control selection → policy pack |
+| `lab01` | Risk assessment policy pack |
 | `lab02` | Capture the flag exercise |
 | `lab03` | Risk and volunarabilities analysis |
 

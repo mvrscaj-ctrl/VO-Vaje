@@ -1,7 +1,7 @@
-# LAB 01 — Build a Mini-ISMS Pack (Risk → Controls → Policies)
+# LAB 01 — Build a Risk assesment policy pack
 
 ## Duration
-5 hours (in-class) + homework (2–3 hours)
+5 hours (in-class) + homework
 
 ## What you will produce (deliverables)
 1. Asset Register
@@ -16,8 +16,8 @@ See `handouts/CaseStudy-BlueRiverHealth.md`
 
 ## Tools
 - Any spreadsheet editor (Excel/Google Sheets/LibreOffice)
-- Markdown editor
-- (Optional) Ubuntu VM for demonstrating technical controls
+- Markdown editor, CSV/Excel
+- (Optional) VM for demonstrating technical controls
 
 ## In-class tasks
 ### Task 1 — Assets & context
