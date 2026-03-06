@@ -9,7 +9,7 @@
 3. Risk Treatment Plan (top risks)
 4. Control Mapping (organizational + technical)
 5. Policy Pack (minimum viable policies)
-6. Statement of Applicability (SoA-lite)
+6. Data Recovery (DR) Plan and Business Impact analysis (BIA)
 
 ## Case study
 See `handouts/CaseStudy-BlueRiverHealth.md`
