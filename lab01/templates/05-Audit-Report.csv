@@ -1,3 +1,10 @@
 Finding ID,Severity,Description,Risk,Recommendation,Verification
 F1,High,Shared accounts on telemedicine platform,Lack of accountability and possible unauthorized access,Implement unique accounts and MFA,Account audit and access logs
 F2,High,Backup restore procedures never tested,Potential inability to recover after ransomware,Perform restore tests twice per year,Restore test documentation
+F3,High,Default passwords on medical devices,Easy target for unauthorized access,Change default credentials on all devices,Device configuration review
+F4,Critical,No MFA for SaaS applications,Increased risk of account compromise,Enable MFA for all SaaS applications,MFA configuration review
+F5,Critical,No DDoS protection for network infrastructure,Increased risk of service disruption,Implement DDoS protection for critical systems,DDoS protection logs and traffic monitoring
+F6,Critical,Unpatched vulnerabilities in Active Directory,High risk of privilege escalation,Implement regular patching and vulnerability management,Patching schedule and vulnerability scan reports
+F7,High,Inadequate access controls on patient database,Increased risk of data breach,Implement Role-Based Access Control and regular access reviews,Access control review and audit logs
+F8,Critical,Lack of user training on phishing attacks,Increased risk of successful phishing attacks,Implement a security awareness training program,Training attendance records
+F9,Medium,Vendor downtime for telemedicine platform,Potential service disruption,Accept risk and have contingency plans in place,N/A

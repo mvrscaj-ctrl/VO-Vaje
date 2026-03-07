@@ -2,3 +2,11 @@ Asset ID,Asset Name,Type,Owner,Location,Confidentiality,Integrity,Availability,C
 A1,Patient Database,Information,Medical Director,On-prem server,H,H,H,Critical
 A2,Active Directory,System,IT Manager,Server room,H,H,H,Critical
 A3,Telemedicine Platform,SaaS,Medical Director,Cloud,H,H,H,Critical
+A4,Backup System,Information,IT Manager,Off-site,H,H,H,Critical
+A5,Medical Devices,Hardware,Medical Director,Hospital,H,H,H,Critical
+A6,Email System,Information,IT Manager,Cloud,H,H,H,Critical
+A7,Network Infrastructure,Hardware,IT Manager,Server room,H,H,H,Critical
+A8,Workstations,Hardware,IT Manager,Office,M,M,M,High
+A9,Laptops,Hardware,IT Manager,Office,M,M,M,High
+
+

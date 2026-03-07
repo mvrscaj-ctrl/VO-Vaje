@@ -2,3 +2,8 @@ Control ID,Control Description,Type,Risk Addressed,Implementation Effort,Verific
 C1,Enable MFA for VPN and SaaS access,Technical,R2;R6,Medium,Identity provider configuration
 C2,Security awareness training program,Organizational,R4,Low,Training attendance records
 C3,Network segmentation of critical systems,Technical,R1,High,Network diagram and firewall rules
+C4,Regular patching and vulnerability management,Technical,R7,Medium,Patching schedule and vulnerability scan reports
+C5,Change default passwords on medical devices,Technical,R4,Low,Device configuration review
+C6,Implement DDoS protection for network infrastructure,Technical,R6,Medium,Network traffic monitoring and DDoS protection logs
+C7,Regular backup restore testing,Technical,R3,Medium,Backup restore test reports
+C8,Implement Role-Based Access Control for patient database access,Technical,R8,High,Access control review and audit logs

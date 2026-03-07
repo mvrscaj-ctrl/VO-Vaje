@@ -2,20 +2,30 @@
 
 ## 1. Access Control Policy
 
-- Write your policy items
+- Disable shared accounts / Convert them to personal
+- Enable MFA for critical systems
+- Set up DDoS protection
+
 
 ## 2. Backup & Recovery Policy
 
-- Write your policy items
+- Backup testing quaterly
+- 3-2-1 backup set up
 
 ## 3. Incident Response Policy
 
-- Write your policy items
+- Set up escalation procedure
+- Containment & Isolation - Steps to limit incident scope and prevent spread
+- Eradication & Recovery - Removing threats and restoring systems to normal state
+- Post-Incident Review - Root cause analysis, lessons learned, process improvement
 
 ## 4. Vendor Security Policy
 
-- Write your policy items
+- Require annual reviews
+- Review availability for services / SLA
 
 ## 5. Acceptable Use Policy
 
-- Write your policy items
+- Restrict any USB keys / external storage
+
+
