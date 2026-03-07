@@ -8,5 +8,16 @@ A6,Email System,Information,IT Manager,Cloud,H,H,H,Critical
 A7,Network Infrastructure,Hardware,IT Manager,Server room,H,H,H,Critical
 A8,Workstations,Hardware,IT Manager,Office,M,M,M,High
 A9,Laptops,Hardware,IT Manager,Office,M,M,M,High
+A10,Physical Servers,Hardware,IT Manager,Server room,H,H,H,Critical
+A11,Virtual Machines,Software,IT Manager,Server room,H,H,H,Critical
+A12,Microsoft Teams,SaaS,IT Manager,Cloud,H,M,H,High
+A13,SharePoint,SaaS,IT Manager,Cloud,H,H,H,Critical
+A14,Accounting Software,SaaS,Finance Manager,Cloud,H,H,H,High
+A15,Mobile Tablets,Hardware,Medical Director,Hospital,H,H,M,High
+A16,Reception PCs,Hardware,IT Manager,Reception,M,M,M,Medium
+A17,Laboratory Data,Information,Lab Manager,On-prem,H,H,H,Critical
+A18,HR Data,Information,HR Manager,On-prem,H,H,M,High
+A19,Financial Data,Information,Finance Manager,Cloud,H,H,H,Critical
+A20,Telemedicine Recordings,Information,Medical Director,Cloud,H,H,M,High
 
 

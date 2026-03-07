@@ -8,3 +8,9 @@ F6,Critical,Unpatched vulnerabilities in Active Directory,High risk of privilege
 F7,High,Inadequate access controls on patient database,Increased risk of data breach,Implement Role-Based Access Control and regular access reviews,Access control review and audit logs
 F8,Critical,Lack of user training on phishing attacks,Increased risk of successful phishing attacks,Implement a security awareness training program,Training attendance records
 F9,Medium,Vendor downtime for telemedicine platform,Potential service disruption,Accept risk and have contingency plans in place,N/A
+F10,High,Lack of redundancy in physical servers,Increased risk of hardware failure,Implement RAID and failover systems,Hardware configuration and uptime monitoring
+F11,Critical,Unpatched hypervisor for virtual machines,High risk of VM compromise,Regular hypervisor updates and VM isolation,Update logs and isolation verification
+F12,High,Insufficient training for Microsoft Teams security,Increased risk of phishing via chat,Enhanced security training for Teams usage,Training completion certificates
+F13,Critical,Weak sharing permissions in SharePoint,High risk of data leakage,Implement Data Loss Prevention policies,DLP rule configuration and incident reports
+F14,Critical,Shared user accounts across systems,Increased risk of insider threats,Enforce unique user accounts,Account audit and MFA enforcement
+F15,High,No Mobile Device Management for tablets,Increased risk of device loss/theft,Implement MDM for tablets and laptops,MDM enrollment and compliance reports

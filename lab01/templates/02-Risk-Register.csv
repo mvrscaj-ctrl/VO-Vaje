@@ -8,3 +8,8 @@ R6,Network Infrastructure,DDoS attack,No DDoS protection,4,3,12,Medium,Mitigate,
 R7,Active Directory,Privilege escalation,Unpatched vulnerabilities,5,4,20,Critical,Mitigate,Regular patching and monitoring
 R8,Patient Database,Data breach,Inadequate access controls,5,3,15,High,Mitigate,Implement RBAC and regular access reviews
 R9,Telemedicine Platform,Service disruption,Vendor downtime,4,2,8,Medium,Accept,N/A
+R10,Physical Servers,Hardware failure,Lack of redundancy,5,3,15,High,Mitigate,Implement RAID and failover systems
+R11,Virtual Machines,VM compromise,Unpatched hypervisor,5,4,20,Critical,Mitigate,Regular hypervisor updates and isolation
+R12,Microsoft Teams,Phishing via chat,Insufficient training,4,4,16,High,Mitigate,Enhanced awareness training for Teams usage
+R13,SharePoint,Data leakage,Weak sharing permissions,5,4,20,Critical,Mitigate,Access controls and DLP policies
+R24,All Assets,Insider threat,Shared accounts,5,4,20,Critical,Mitigate,Enforce unique accounts and monitoring

@@ -7,3 +7,10 @@ C5,Change default passwords on medical devices,Technical,R4,Low,Device configura
 C6,Implement DDoS protection for network infrastructure,Technical,R6,Medium,Network traffic monitoring and DDoS protection logs
 C7,Regular backup restore testing,Technical,R3,Medium,Backup restore test reports
 C8,Implement Role-Based Access Control for patient database access,Technical,R8,High,Access control review and audit logs
+C9,Implement RAID and failover systems for physical servers,Technical,R10,Medium,Hardware configuration and uptime monitoring
+C10,Regular hypervisor updates and VM isolation,Technical,R11,Medium,Update logs and isolation verification
+C11,Enhanced security training for Microsoft Teams usage,Organizational,R12,Low,Training completion certificates
+C12,Data Loss Prevention policies for SharePoint,Technical,R13,High,DLP rule configuration and incident reports
+C13,Enforce unique user accounts across all systems,Technical,R24,Medium,Account audit and MFA enforcement
+C14,Mobile Device Management for tablets and laptops,Technical,R15,Medium,MDM enrollment and compliance reports
+C15,Data encryption for laboratory and HR data,Technical,R17;R18,High,Encryption audit and key management

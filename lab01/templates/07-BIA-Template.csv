@@ -1,7 +1,10 @@
-Business Process,Maximum Tolerable Downtime,RTO,RPO,Dependencies,Impact if Unavailable
-Patient Registration,24 hours,8 hours,4 hours,Active Directory;Database,Patient service disruption
-Telemedicine Consultation,12 hours,4 hours,1 hour,Telemedicine SaaS;Internet connectivity,Reputation damage and revenue loss
-Medical Device Operation,48 hours,12 hours,6 hours,Medical devices;Power supply,Patient safety risk
-Data Backup and Recovery,72 hours,24 hours,12 hours,Backup system;Off-site storage,Data loss and extended downtime
-Email Communication,24 hours,8 hours,4 hours,Email system;Internet connectivity,Communication disruption and potential security risks
-Patient examination,1 hour,1 hour,0.5 hour,Workstations;Network infrastructure; Active Directory,Patient service disruption
+Business Process,Maximum Tolerable Downtime,RTO,RPO,Dependencies,Impact if Unavailable,Criticality,Financial Impact (€/hour),Recovery Strategy
+Patient Registration,8 hours,8 hours,4 hours,Active Directory;Database,Patient service disruption,Medium,500,Manual processes; Cloud failover
+Telemedicine Consultation,1 hours,1 hours,1 hour,Telemedicine SaaS;Internet connectivity,Reputation damage and revenue loss,High,2000,Backup platform; Shared accounts review
+Medical Device Operation,1 hour,1 hour,0.5 hours,Medical devices;Power supply,Patient safety risk,High,5000,Redundant devices; Emergency protocols
+Data Backup and Recovery,72 hours,24 hours,12 hours,Backup system;Off-site storage,Data loss and extended downtime,Medium,1000,Test restorations; Cloud backup
+Email Communication,12 hours,8 hours,4 hours,Email system;Internet connectivity,Communication disruption and potential security risks,Medium,300,Microsoft 365 alternatives; Mobile access
+Patient examination,1 hour,1 hour,0.5 hours,Workstations;Network infrastructure; Active Directory,Patient service disruption,High,3000,Manual records; Backup workstations
+Appointment Scheduling,4 hours,2 hours,1 hour,Scheduling software;Database,Delayed appointments and revenue loss,Medium,1000,Phone/manual booking; Cloud sync
+Laboratory Processing,2 hours,1 hour,0.5 hours,Lab equipment;Network;Database,Delayed diagnostics and patient harm,High,4000,Manual processing; Off-site lab
+Billing & Insurance Processing,24 hours,12 hours,6 hours,Accounting software;Database,Revenue loss and compliance issues,Medium,1500,Manual invoicing; Paper records
